@@ -1,1 +1,2 @@
-printf("My name is Kanchan")
+printf("My name is Kanchan");
+int rupee=10;
